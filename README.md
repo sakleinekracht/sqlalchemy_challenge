@@ -1,6 +1,6 @@
 # sqlalchemy_challenge
 
-SurfsUp folder contains:
+SurfsUp folder contains submission material:
 
 SK_surfsup_code.ipynb 
 
